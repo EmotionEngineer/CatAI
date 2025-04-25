@@ -95,5 +95,5 @@ Predicted action: Climbs a tree
 
 ### Build Requirements
 - OpenCV 4.x (C# bindings)
-- C11-compliant compiler
-- .NET Core 6.0+
+- C-compliant compiler
+- .NET 8.0 (C# example)
